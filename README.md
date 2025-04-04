@@ -26,5 +26,5 @@ A huge thank you to our dedicated team at Code Basis YouTube channel for their i
 and unwavering support in bringing this project to life!
 
 ## Dashboard Interaction
-![Screenshot](https://github.com/Joethomas0078/HR-Analytics/blob/main/Screenshot-presence-insights.png)
+![Screenshot-presence-insights](https://github.com/user-attachments/assets/85de16ed-ce57-440d-81ea-a24d81c94925)
 
