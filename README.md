@@ -7,7 +7,7 @@ This project presents a comprehensive analysis of attendance data through a visu
 - Data Visualization
 - Dashboard Design
 - Data Analysis
-- Power bi
+- Power BI
 - Excel
 
 ## Dataset used
